@@ -1,0 +1,8 @@
+opencv
+scipy=1.1.0
+numpy
+scikit-image
+matplotlib
+joblib
+tifffile
+tkinter
